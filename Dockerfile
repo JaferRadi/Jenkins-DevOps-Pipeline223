@@ -13,4 +13,4 @@ COPY --from=build /app/publish .
 
 EXPOSE 8080
 
-ENTRYPOINT ["dotnet", "/app/3.2.dll"]
+ENTRYPOINT ["dotnet", "/app/3.2.dll", "--urls", "http://0.0.0.0:8080"]
