@@ -50,3 +50,4 @@ C:\Users\jalmn\Desktop\7.3HD\obj\Debug\net7.0\refint\3.2.dll
 C:\Users\jalmn\Desktop\7.3HD\obj\Debug\net7.0\3.2.pdb
 C:\Users\jalmn\Desktop\7.3HD\obj\Debug\net7.0\3.2.genruntimeconfig.cache
 C:\Users\jalmn\Desktop\7.3HD\obj\Debug\net7.0\ref\3.2.dll
+C:\Users\jalmn\Desktop\7.3HD\obj\Debug\net7.0\3.2.sourcelink.json
