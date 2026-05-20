@@ -1,1 +1,1 @@
-Automatic trigger demonstration update
+Automatic trigger demonstration update.
