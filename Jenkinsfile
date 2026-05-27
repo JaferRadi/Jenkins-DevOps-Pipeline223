@@ -6,7 +6,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/JaferRadi/8.2CDevSecOps.git'
+                url: 'https://github.com/JaferRadi/Jenkins-DevOps-Pipeline223.git'
             }
         }
 
